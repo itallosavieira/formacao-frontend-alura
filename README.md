@@ -1,5 +1,5 @@
-# Formação Front End | Alura
-### Série de cursos com foco em Front-End
+# Formação Front End
+### Série de cursos para formação Front End da Alura
 <br>
 
 
