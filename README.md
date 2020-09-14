@@ -3,7 +3,7 @@
 <br>
 
 ### PRÉ-REQUESITOS:
-- [x] Lógica de programação I: Os primeiros programas com Javascript e HTML | [Certificado](https://cursos.alura.com.br/user/itallo-sa-vieira/course/logica-programacao-javascript-html/certificate)
+- [x] Lógica de programação I: Os primeiros programas com Javascript e HTML | [Certificado ✔](https://cursos.alura.com.br/user/itallo-sa-vieira/course/logica-programacao-javascript-html/certificate)
 - [x] Lógica de programação II: pratique com desenhos, animações e um jogo
 - [ ] Git: Controle e compartilhe seu código
 
