@@ -24,7 +24,7 @@
 
 
 ### 2. JavaScript a linguagem da Web:
-- [x] JavaScript: primeiros passos com a linguagem | [Certificado ✔]()
+- [x] JavaScript: primeiros passos com a linguagem | [Certificado ✔](https://cursos.alura.com.br/user/itallo-sa-vieira/course/javascript-introducao/certificate)
 
 - [ ] JavaScript: introdução a Orientação a Objetos |
 
