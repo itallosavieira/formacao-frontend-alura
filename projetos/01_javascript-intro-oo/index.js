@@ -1,22 +1,19 @@
-class Cliente{
-    nome;
-    cpf;
-    agencia;
-    saldo;
-}
+import {Cliente} from './cliente.js'
+import {ContaCorrente} from './contaCorrente.js'
 
 const cliente1 = new Cliente();
-const cliente2 = new Cliente();
-
 cliente1.nome = "Itallo";
 cliente1.cpf = 44455566658;
-cliente1.agencia = 1001;
-cliente1.saldo = 0;
 
+const cliente2 = new Cliente();
 cliente2.nome = "Alice";
 cliente2.cpf = 88855566658;
-cliente2.agencia = 1001;
-cliente2.saldo = 0;
 
-console.log(cliente1, cliente2);
+const contaCorrenteItallo = new ContaCorrente();
+contaCorrenteItallo.agencia = 1001;
 
+contaCorrenteItallo.depositar(200);
+contaCorrenteItallo.sacar(50);
+
+
+console.log(contaCorrenteItallo);
